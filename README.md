@@ -1,3 +1,5 @@
+## ABOUT ME 
+
 ## Hi there 👋 I'm Harsh Vardhan Pathak :)
 
 I'm a BCA student currently starting my 2nd year. I'm building toward backend engineering and AI implementation.
