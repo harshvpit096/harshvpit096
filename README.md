@@ -8,4 +8,4 @@ BCA student (2nd year), building toward backend engineering and AI implementatio
 
 **Tools:** Git, Linux
 
-Connect:** [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-pathak-44347041a)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-pathak-44347041a)
