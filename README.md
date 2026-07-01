@@ -4,7 +4,7 @@ BCA student (2nd year), building toward backend engineering and AI implementatio
 
 **Stack:** Python, FastAPI, PostgreSQL, Redis
 
-**Focus right now:** Strengthening DSA fundamentals + backend systems depth
+**Focus right now:** Strengthening DSA fundamentals + backend systems depth (projects soon)
 
 **Tools:** Git, Linux
 
